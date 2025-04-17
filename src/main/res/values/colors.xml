@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- New gradient colors -->
+    <color name="gradient_start">#6A11CB</color>
+    <color name="gradient_end">#2575FC</color>
+    <color name="card_bg">#F5F5F5</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="accent">#FF4081</color>
+    <!-- Add these to your existing colors -->
+    <color name="fragment_about_bg">#FFF8F8F8</color>
+    <color name="fragment_skills_bg">#FFEBF5FB</color>
+    <color name="fragment_projects_bg">#FFF5F5F5</color>
+    <color name="fragment_contact_bg">#FFFFFFFF</color>
+</resources>
